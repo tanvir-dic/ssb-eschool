@@ -1,0 +1,303 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+}
+
+h1,h2,h3,h4,h5,h6{
+
+}
+
+a ,a:hover{
+	text-decoration: none;
+}
+
+/*******************************************************
+  E-school starts here...................
+ *****************************************************/
+.header-sec{
+	widows: 100%;
+  background-color: #F0FFF0;
+}
+ .header-sec .bg-light{
+ 	background: transparent !important;
+
+ }
+
+.nav-item1 .nav-link{
+  font-weight: 700;
+  color: black;
+  margin-left: 5px;
+}
+}
+
+.nav-item .btn-success{
+	margin-left: 10px;
+
+}
+.nav-item2{
+	font-weight: 700;
+	color: black;
+	margin-left: 5px;
+
+}
+
+.nav-item3{
+font-weight: 700;
+	color: black;
+	margin-left: 5px;
+}
+
+.nav-item4{
+font-weight: 700;
+	color: black;
+	margin-left: 5px;
+}
+.nav-item .btn-success{
+	border-radius: 25px;
+
+	width: 120px ;
+	font-weight: 700;
+	margin-left: 10px;
+  
+
+}
+
+.nav-item .btn-success:hover{
+
+	color: #21B573;
+	background:  white;
+	border-color: #21B573;
+}
+
+.banner{
+	width: 100%;
+	padding: 80px 0px;
+}
+.banner .btn-success{
+	border-radius: 25px;
+
+	width: 120px ;
+	font-weight: 700;
+	margin-top: 20px;
+}
+.banner .btn-success:hover{
+
+	color: #21B573;
+	background:  white;
+	border-color: #21B573;
+}
+
+.banner h5{
+	font-size: 18px;
+	font-weight: 600;
+	color:#FD511A;
+
+}
+.banner h1{
+	
+	
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 70px;
+  color: #000;
+
+}
+
+.banner h1 span{
+color: #21B573;
+}
+.banner p{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 36px;
+  color: #000;
+
+}
+
+.feature{
+	width: 100%;
+	padding: 80px 0px;
+}
+.feature .inner-feature{
+	width: 100%;
+	padding: 40px 25px;
+	background: #F8FFFB;
+	text-align: center;
+	border-radius: 25px;
+}
+
+.feature .inner-feature img{
+	width: 85px;
+	height: 85px;
+	margin: 0px 0px 20px;
+}
+
+.feature .inner-feature h4{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000;
+    margin: 0px;
+}
+
+.feature .inner-feature{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 26px;
+	color: #585859;
+	text-align: center;
+	margin: 0px;
+}
+.feature .inner-feature:hover{
+	background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  
+}
+.scnd-feature{
+  width: 100%;
+  padding: 80px 0px;
+}
+.scnd-feature .title{
+	 font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 70px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 80px;
+
+}
+ .scnd-feature .card{
+ 	padding: 20px;
+ 	border-radius: 20px;
+ 	box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+ 	border: 0px;
+ }
+ .scnd-feature .card .main-img{
+ 	border-radius: 11px;
+ }
+  .scnd-feature .card-body{
+  	padding: 20px 0px ;
+  }
+
+.scnd-feature .card-body .btn-success{
+		border-radius: 25px;
+
+	width: 120px ;
+	font-weight: 700;
+	
+}
+.scnd-feature .card-body .btn-success:hover{
+
+	color: #21B573;
+	background:  white;
+	border-color: #21B573;
+}
+
+.scnd-feature .card-body .card-title{
+	
+
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+}
+.scnd-feature .card-body .card-text{
+
+ font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+ color: #585859;
+ margin-bottom: 20px;
+}
+.scnd-feature .card-body .date{
+	width: 100%;
+	margin: 36px 0px 0px;
+}
+.scnd-feature .card-body .date p{
+	font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+ color: #585859;
+}
+.scnd-feature .card-body .seat{
+	width: 100%;
+	margin: 36px 0px 0px;
+
+}
+.scnd-feature .card-body .seat p{
+	font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+ color: #585859;
+}
+.testimonial{
+	width: 100%;
+	padding: 80px 0px;
+
+}
+.testimonial p{
+	font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+ color: #585859;
+ margin-top: 10px;
+}
+
+.footer-section{
+	width: 100%;
+	padding: 80px 0px 20px;
+	background-color: #282531;
+}
+.footer-section p{
+	font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+ color: #fff;
+ margin-top: 10px;
+}
+.widget{
+	widows: 100%;
+}
+.widget h6{
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+.widget ul{
+	padding: 0px;
+}
+.widget ul li{
+
+	 list-style:none ;
+}
+.widget ul li a{
+	display: inline-block;
+	font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+ color: #fff;
+ margin-top: 10px;
+ margin: 0px 0px 10px;
+}
+.copyright{
+	text-align: center;
+}
